@@ -1,0 +1,616 @@
+2025-12-13 04:52:46 - Input: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 04:52:46 - Data to Save: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 04:52:57 - Input: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 9
+            [p2] => 8
+            [p3] => 7
+            [average] => 8.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 04:52:57 - Data to Save: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 9
+            [p2] => 8
+            [p3] => 7
+            [average] => 8.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 04:52:58 - Input: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 9
+            [p2] => 8
+            [p3] => 7
+            [average] => 8.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 04:52:58 - Data to Save: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 9
+            [p2] => 8
+            [p3] => 7
+            [average] => 8.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 04:56:48 - Input: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 9
+            [p2] => 8
+            [p3] => 7
+            [average] => 8.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 04:56:48 - Data to Save: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 
+            [p2] => 
+            [p3] => 
+            [average] => 
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 9
+            [p2] => 8
+            [p3] => 7
+            [average] => 8.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 04:57:02 - Input: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 3
+            [p2] => 4
+            [p3] => 5
+            [average] => 4.0
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 5
+            [p2] => 5
+            [p3] => 5
+            [average] => 5.0
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 9
+            [p2] => 8
+            [p3] => 7
+            [average] => 8.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 04:57:02 - Data to Save: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 3
+            [p2] => 4
+            [p3] => 5
+            [average] => 4.0
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 5
+            [p2] => 5
+            [p3] => 5
+            [average] => 5.0
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 9
+            [p2] => 8
+            [p3] => 7
+            [average] => 8.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 05:00:20 - Input: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 3
+            [p2] => 4
+            [p3] => 5
+            [average] => 4.0
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 5
+            [p2] => 5
+            [p3] => 5
+            [average] => 5.0
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 10
+            [p3] => 10
+            [average] => 10.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 05:00:20 - Data to Save: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 3
+            [p2] => 4
+            [p3] => 5
+            [average] => 4.0
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 5
+            [p2] => 5
+            [p3] => 5
+            [average] => 5.0
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 10
+            [p3] => 10
+            [average] => 10.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 05:10:24 - Input: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 3
+            [p2] => 4
+            [p3] => 5
+            [average] => 4.0
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 7
+            [p2] => 6
+            [p3] => 5
+            [average] => 6.0
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 10
+            [p3] => 10
+            [average] => 10.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+
+2025-12-13 05:10:24 - Data to Save: Array
+(
+    [0] => Array
+        (
+            [studentId] => ALU001
+            [subject] => Matemáticas
+            [p1] => 3
+            [p2] => 4
+            [p3] => 5
+            [average] => 4.0
+        )
+
+    [1] => Array
+        (
+            [studentId] => ALU002
+            [subject] => Matemáticas
+            [p1] => 7
+            [p2] => 6
+            [p3] => 5
+            [average] => 6.0
+        )
+
+    [2] => Array
+        (
+            [studentId] => ALU921
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 10
+            [p3] => 10
+            [average] => 10.0
+        )
+
+    [3] => Array
+        (
+            [studentId] => ALU315
+            [subject] => Matemáticas
+            [p1] => 10
+            [p2] => 8
+            [p3] => 9
+            [average] => 9.0
+        )
+
+)
+

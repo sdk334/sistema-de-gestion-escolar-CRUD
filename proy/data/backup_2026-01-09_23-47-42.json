@@ -1,0 +1,1331 @@
+{
+    "grades": [
+        {
+            "studentId": "ALU001",
+            "subject": "Matem\u00e1ticas",
+            "p1": "3",
+            "p2": "4",
+            "p3": "5",
+            "average": "4.0"
+        },
+        {
+            "studentId": "ALU002",
+            "subject": "Matem\u00e1ticas",
+            "p1": "7",
+            "p2": "6",
+            "p3": "5",
+            "average": "6.0"
+        },
+        {
+            "studentId": "ALU921",
+            "subject": "Matem\u00e1ticas",
+            "p1": "10",
+            "p2": "10",
+            "p3": "10",
+            "average": "10.0"
+        },
+        {
+            "studentId": "ALU315",
+            "subject": "Matem\u00e1ticas",
+            "p1": "10",
+            "p2": "8",
+            "p3": "9",
+            "average": "9.0"
+        },
+        {
+            "studentId": "ALU8964",
+            "subject": "Matem\u00e1ticas",
+            "p1": "8.6",
+            "p2": "6.6",
+            "p3": "4.1",
+            "average": "6.4"
+        },
+        {
+            "studentId": "ALU6606",
+            "subject": "Matem\u00e1ticas",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "average": ""
+        },
+        {
+            "studentId": "ALU9405",
+            "subject": "Matem\u00e1ticas",
+            "p1": "6.1",
+            "p2": "10",
+            "p3": "7",
+            "average": "7.7"
+        },
+        {
+            "studentId": "ALU9917",
+            "subject": "Matem\u00e1ticas",
+            "p1": "",
+            "p2": "0",
+            "p3": "",
+            "average": "0.0"
+        },
+        {
+            "studentId": "ALU6417",
+            "subject": "Matem\u00e1ticas",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "average": "0"
+        },
+        {
+            "studentId": "ALU1632",
+            "subject": "Matem\u00e1ticas",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "average": ""
+        },
+        {
+            "studentId": "ALU3197",
+            "subject": "Matem\u00e1ticas",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "average": ""
+        },
+        {
+            "studentId": "ALU4642",
+            "subject": "Matem\u00e1ticas",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "average": ""
+        },
+        {
+            "studentId": "ALU9405",
+            "subject": "Desarrollo Infantil",
+            "p1": "8",
+            "p2": "8",
+            "p3": "9",
+            "average": "8.3"
+        },
+        {
+            "studentId": "ALU9405",
+            "subject": "1-A",
+            "p1": "10",
+            "p2": "",
+            "p3": "",
+            "average": "10"
+        }
+    ],
+    "users": [
+        {
+            "id": "ADM001",
+            "username": "admin",
+            "password": "Password1!",
+            "role": "admin",
+            "name": "Ivan Blanco",
+            "email": "admin@schoolhub.edu.mx",
+            "status": "active",
+            "failedAttempts": 0,
+            "lockoutUntil": 0
+        },
+        {
+            "id": "DOC-K01",
+            "username": "E100001",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Ana L\u00f3pez Garc\u00eda",
+            "email": "alopez@schoolhub.edu.mx",
+            "specialty": "Desarrollo Infantil",
+            "level": "Kinder",
+            "status": "active",
+            "failedAttempts": 0,
+            "lockoutUntil": 0,
+            "seniority": 10
+        },
+        {
+            "id": "DOC-K02",
+            "username": "E100002",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Patricia Hern\u00e1ndez Ruiz",
+            "email": "phernandez@schoolhub.edu.mx",
+            "specialty": "Educaci\u00f3n Inicial",
+            "level": "Kinder",
+            "status": "active",
+            "failedAttempts": 0,
+            "lockoutUntil": 0
+        },
+        {
+            "id": "DOC-K03",
+            "username": "E100003",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Rosa Mart\u00ednez Soto",
+            "email": "rmartinez@schoolhub.edu.mx",
+            "specialty": "Arte y Creatividad",
+            "level": "Kinder",
+            "status": "active",
+            "failedAttempts": 1,
+            "lockoutUntil": 0
+        },
+        {
+            "id": "DOC-K04",
+            "username": "E100004",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Carmen D\u00edaz Flores",
+            "email": "cdiaz@schoolhub.edu.mx",
+            "specialty": "Psicomotricidad",
+            "level": "Kinder",
+            "status": "active"
+        },
+        {
+            "id": "DOC-P01",
+            "username": "E200001",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Roberto S\u00e1nchez Luna",
+            "email": "rsanchez@schoolhub.edu.mx",
+            "specialty": "Matem\u00e1ticas B\u00e1sicas",
+            "level": "Primaria",
+            "status": "active"
+        },
+        {
+            "id": "DOC-P02",
+            "username": "E200002",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Mar\u00eda Elena Torres",
+            "email": "metorres@schoolhub.edu.mx",
+            "specialty": "Espa\u00f1ol y Lectura",
+            "level": "Primaria",
+            "status": "active"
+        },
+        {
+            "id": "DOC-P03",
+            "username": "E200003",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Jos\u00e9 Luis Ram\u00edrez",
+            "email": "jlramirez@schoolhub.edu.mx",
+            "specialty": "Ciencias Naturales",
+            "level": "Primaria",
+            "status": "active"
+        },
+        {
+            "id": "DOC-P04",
+            "username": "E200004",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Laura Mendoza Vega",
+            "email": "lmendoza@schoolhub.edu.mx",
+            "specialty": "Educaci\u00f3n F\u00edsica",
+            "level": "Primaria",
+            "status": "active"
+        },
+        {
+            "id": "DOC-S01",
+            "username": "E300001",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Carlos Vargas Ortiz",
+            "email": "cvargas@schoolhub.edu.mx",
+            "specialty": "Matem\u00e1ticas",
+            "level": "Secundaria",
+            "status": "active"
+        },
+        {
+            "id": "DOC-S02",
+            "username": "E300002",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Adriana Morales Castro",
+            "email": "amorales@schoolhub.edu.mx",
+            "specialty": "Historia y Geograf\u00eda",
+            "level": "Secundaria",
+            "status": "active"
+        },
+        {
+            "id": "DOC-S03",
+            "username": "E300003",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Fernando Reyes Navarro",
+            "email": "freyes@schoolhub.edu.mx",
+            "specialty": "F\u00edsica y Qu\u00edmica",
+            "level": "Secundaria",
+            "status": "active",
+            "seniority": 0
+        },
+        {
+            "id": "DOC-S04",
+            "username": "E300004",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Gabriela Jim\u00e9nez Mora",
+            "email": "gjimenez@schoolhub.edu.mx",
+            "specialty": "Ingl\u00e9s",
+            "level": "Secundaria",
+            "status": "active",
+            "failedAttempts": 0,
+            "lockoutUntil": 0
+        },
+        {
+            "id": "DOC-U01",
+            "username": "E400001",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Dr. Miguel \u00c1ngel P\u00e9rez",
+            "email": "maperez@schoolhub.edu.mx",
+            "specialty": "C\u00e1lculo Diferencial",
+            "level": "Universidad",
+            "status": "active"
+        },
+        {
+            "id": "DOC-U02",
+            "username": "E400002",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Dra. Sof\u00eda Herrera L\u00f3pez",
+            "email": "sherrera@schoolhub.edu.mx",
+            "specialty": "Programaci\u00f3n",
+            "level": "Universidad",
+            "status": "active"
+        },
+        {
+            "id": "DOC-U03",
+            "username": "E400003",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Ing. David Rodr\u00edguez Soto",
+            "email": "drodriguez@schoolhub.edu.mx",
+            "specialty": "F\u00edsica Cl\u00e1sica",
+            "level": "Universidad",
+            "status": "active"
+        },
+        {
+            "id": "DOC-U04",
+            "username": "E400004",
+            "password": "Password1!",
+            "role": "docente",
+            "name": "Mtra. Elena Castro Ruiz",
+            "email": "ecastro@schoolhub.edu.mx",
+            "specialty": "Base de Datos",
+            "level": "Universidad",
+            "status": "active"
+        },
+        {
+            "id": "ALU9405",
+            "username": "2025641204",
+            "password": "Password1!",
+            "role": "alumno",
+            "name": "ximena casta\u00f1eda martinez",
+            "email": "xcasta\u00f1eda022014@schoolhub.edu.mx",
+            "level": "Kinder",
+            "group": "Sin Asignar",
+            "status": "active",
+            "failedAttempts": 0,
+            "lockoutUntil": 0
+        },
+        {
+            "id": "TUT7406",
+            "username": "padre54",
+            "password": "Password1!",
+            "role": "tutor",
+            "name": "padre de ximena",
+            "email": "pde.tutor@schoolhub.edu.mx",
+            "phone": "5573982712",
+            "students": [
+                "ALU9405"
+            ],
+            "status": "active",
+            "failedAttempts": 0,
+            "lockoutUntil": 0
+        },
+        {
+            "id": "ALU4642",
+            "username": "2025641337",
+            "password": "Password1!",
+            "role": "alumno",
+            "name": "liz Hernandez",
+            "email": "lhernandez052005@schoolhub.edu.mx",
+            "level": "Universidad",
+            "group": "Sin Asignar",
+            "status": "active",
+            "failedAttempts": 0,
+            "lockoutUntil": 0,
+            "phone": "5567890323",
+            "address": "dfsf",
+            "alternateEmail": "dfsdfdsf@gma",
+            "emergencyContact": "555555",
+            "updatedAt": "2026-01-05T07:27:57+01:00"
+        }
+    ],
+    "absences": [
+        {
+            "id": 1,
+            "studentId": "ALU001",
+            "studentName": "Jonathan Paredes",
+            "date": "2025-12-08",
+            "subject": "Matem\u00e1ticas",
+            "status": "Justificada",
+            "reason": "ninguno"
+        },
+        {
+            "id": 2,
+            "studentId": "ALU001",
+            "studentName": "Jonathan Paredes",
+            "date": "2025-12-09",
+            "subject": "F\u00edsica",
+            "status": "Justificada",
+            "reason": "mw hice popis"
+        },
+        {
+            "id": 3,
+            "studentId": "ALU002",
+            "studentName": "Luis Palestina",
+            "date": "2025-12-08",
+            "subject": "Programaci\u00f3n",
+            "status": "Retardo"
+        }
+    ],
+    "schedules": [
+        {
+            "level": "Kinder",
+            "classes": [
+                {
+                    "day": "Lunes",
+                    "time": "08:00",
+                    "subject": "Desarrollo Infantil",
+                    "teacherId": "DOC-K01",
+                    "room": "A-101"
+                },
+                {
+                    "day": "Lunes",
+                    "time": "10:00",
+                    "subject": "Arte y Creatividad",
+                    "teacherId": "DOC-K03",
+                    "room": "A-102"
+                },
+                {
+                    "day": "Martes",
+                    "time": "08:00",
+                    "subject": "Educaci\u00f3n Inicial",
+                    "teacherId": "DOC-K02",
+                    "room": "A-101"
+                },
+                {
+                    "day": "Martes",
+                    "time": "10:00",
+                    "subject": "Psicomotricidad",
+                    "teacherId": "DOC-K04",
+                    "room": "Gimnasio"
+                },
+                {
+                    "day": "Mi\u00e9rcoles",
+                    "time": "08:00",
+                    "subject": "Desarrollo Infantil",
+                    "teacherId": "DOC-K01",
+                    "room": "A-101"
+                },
+                {
+                    "day": "Jueves",
+                    "time": "08:00",
+                    "subject": "Arte y Creatividad",
+                    "teacherId": "DOC-K03",
+                    "room": "A-102"
+                },
+                {
+                    "day": "Viernes",
+                    "time": "08:00",
+                    "subject": "Educaci\u00f3n Inicial",
+                    "teacherId": "DOC-K02",
+                    "room": "A-101"
+                }
+            ]
+        },
+        {
+            "level": "Primaria",
+            "classes": [
+                {
+                    "day": "Lunes",
+                    "time": "07:00",
+                    "subject": "Matem\u00e1ticas B\u00e1sicas",
+                    "teacherId": "DOC-P01",
+                    "room": "B-201"
+                },
+                {
+                    "day": "Lunes",
+                    "time": "08:30",
+                    "subject": "Espa\u00f1ol y Lectura",
+                    "teacherId": "DOC-P02",
+                    "room": "B-202"
+                },
+                {
+                    "day": "Lunes",
+                    "time": "10:00",
+                    "subject": "Ciencias Naturales",
+                    "teacherId": "DOC-P03",
+                    "room": "B-203"
+                },
+                {
+                    "day": "Martes",
+                    "time": "07:00",
+                    "subject": "Espa\u00f1ol y Lectura",
+                    "teacherId": "DOC-P02",
+                    "room": "B-202"
+                },
+                {
+                    "day": "Martes",
+                    "time": "08:30",
+                    "subject": "Educaci\u00f3n F\u00edsica",
+                    "teacherId": "DOC-P04",
+                    "room": "Cancha"
+                },
+                {
+                    "day": "Mi\u00e9rcoles",
+                    "time": "07:00",
+                    "subject": "Matem\u00e1ticas B\u00e1sicas",
+                    "teacherId": "DOC-P01",
+                    "room": "B-201"
+                },
+                {
+                    "day": "Mi\u00e9rcoles",
+                    "time": "08:30",
+                    "subject": "Ciencias Naturales",
+                    "teacherId": "DOC-P03",
+                    "room": "B-203"
+                },
+                {
+                    "day": "Jueves",
+                    "time": "07:00",
+                    "subject": "Espa\u00f1ol y Lectura",
+                    "teacherId": "DOC-P02",
+                    "room": "B-202"
+                },
+                {
+                    "day": "Jueves",
+                    "time": "08:30",
+                    "subject": "Educaci\u00f3n F\u00edsica",
+                    "teacherId": "DOC-P04",
+                    "room": "Cancha"
+                },
+                {
+                    "day": "Viernes",
+                    "time": "07:00",
+                    "subject": "Matem\u00e1ticas B\u00e1sicas",
+                    "teacherId": "DOC-P01",
+                    "room": "B-201"
+                }
+            ]
+        },
+        {
+            "level": "Secundaria",
+            "classes": [
+                {
+                    "day": "Lunes",
+                    "time": "07:00",
+                    "subject": "Matem\u00e1ticas",
+                    "teacherId": "DOC-S01",
+                    "room": "C-301"
+                },
+                {
+                    "day": "Lunes",
+                    "time": "08:30",
+                    "subject": "Historia y Geograf\u00eda",
+                    "teacherId": "DOC-S02",
+                    "room": "C-302"
+                },
+                {
+                    "day": "Lunes",
+                    "time": "10:00",
+                    "subject": "Ingl\u00e9s",
+                    "teacherId": "DOC-S04",
+                    "room": "C-304"
+                },
+                {
+                    "day": "Martes",
+                    "time": "07:00",
+                    "subject": "F\u00edsica y Qu\u00edmica",
+                    "teacherId": "DOC-S03",
+                    "room": "Lab-1"
+                },
+                {
+                    "day": "Martes",
+                    "time": "08:30",
+                    "subject": "Matem\u00e1ticas",
+                    "teacherId": "DOC-S01",
+                    "room": "C-301"
+                },
+                {
+                    "day": "Mi\u00e9rcoles",
+                    "time": "07:00",
+                    "subject": "Historia y Geograf\u00eda",
+                    "teacherId": "DOC-S02",
+                    "room": "C-302"
+                },
+                {
+                    "day": "Mi\u00e9rcoles",
+                    "time": "08:30",
+                    "subject": "Ingl\u00e9s",
+                    "teacherId": "DOC-S04",
+                    "room": "C-304"
+                },
+                {
+                    "day": "Jueves",
+                    "time": "07:00",
+                    "subject": "F\u00edsica y Qu\u00edmica",
+                    "teacherId": "DOC-S03",
+                    "room": "Lab-1"
+                },
+                {
+                    "day": "Jueves",
+                    "time": "08:30",
+                    "subject": "Matem\u00e1ticas",
+                    "teacherId": "DOC-S01",
+                    "room": "C-301"
+                },
+                {
+                    "day": "Viernes",
+                    "time": "07:00",
+                    "subject": "Ingl\u00e9s",
+                    "teacherId": "DOC-S04",
+                    "room": "C-304"
+                }
+            ]
+        },
+        {
+            "level": "Universidad",
+            "classes": [
+                {
+                    "day": "Lunes",
+                    "time": "07:00",
+                    "subject": "C\u00e1lculo Diferencial",
+                    "teacherId": "DOC-U01",
+                    "room": "D-401"
+                },
+                {
+                    "day": "Lunes",
+                    "time": "08:30",
+                    "subject": "Programaci\u00f3n",
+                    "teacherId": "DOC-U02",
+                    "room": "Lab-CC"
+                },
+                {
+                    "day": "Lunes",
+                    "time": "10:00",
+                    "subject": "Base de Datos",
+                    "teacherId": "DOC-U04",
+                    "room": "Lab-CC"
+                },
+                {
+                    "day": "Martes",
+                    "time": "07:00",
+                    "subject": "F\u00edsica Cl\u00e1sica",
+                    "teacherId": "DOC-U03",
+                    "room": "D-402"
+                },
+                {
+                    "day": "Martes",
+                    "time": "08:30",
+                    "subject": "C\u00e1lculo Diferencial",
+                    "teacherId": "DOC-U01",
+                    "room": "D-401"
+                },
+                {
+                    "day": "Mi\u00e9rcoles",
+                    "time": "07:00",
+                    "subject": "Programaci\u00f3n",
+                    "teacherId": "DOC-U02",
+                    "room": "Lab-CC"
+                },
+                {
+                    "day": "Mi\u00e9rcoles",
+                    "time": "08:30",
+                    "subject": "Base de Datos",
+                    "teacherId": "DOC-U04",
+                    "room": "Lab-CC"
+                },
+                {
+                    "day": "Jueves",
+                    "time": "07:00",
+                    "subject": "F\u00edsica Cl\u00e1sica",
+                    "teacherId": "DOC-U03",
+                    "room": "D-402"
+                },
+                {
+                    "day": "Jueves",
+                    "time": "08:30",
+                    "subject": "C\u00e1lculo Diferencial",
+                    "teacherId": "DOC-U01",
+                    "room": "D-401"
+                },
+                {
+                    "day": "Viernes",
+                    "time": "07:00",
+                    "subject": "Programaci\u00f3n",
+                    "teacherId": "DOC-U02",
+                    "room": "Lab-CC"
+                }
+            ]
+        }
+    ],
+    "settings": {
+        "enrollmentPeriod": "active",
+        "enrollmentPeriodBasic": "active"
+    },
+    "justificationRequests": [
+        {
+            "id": 1,
+            "studentId": "ALU9405",
+            "studentName": "ximena casta\u00f1eda martinez",
+            "date": "2025-12-15",
+            "subject": "Matem\u00e1ticas",
+            "reason": "Estuve enfermo con gripe y fui al m\u00e9dico",
+            "level": "Kinder",
+            "status": "Aprobada",
+            "createdAt": "2025-12-16 07:01:55",
+            "adminResponse": "Solicitud aprobada",
+            "approvedAt": "2025-12-16 07:07:26"
+        },
+        {
+            "id": 2,
+            "studentId": "ALU4642",
+            "studentName": "liz Hernandez",
+            "date": "2025-12-18",
+            "subject": "Matem\u00e1ticas",
+            "reason": "me enferme",
+            "level": "Universidad",
+            "status": "Pendiente",
+            "createdAt": "2025-12-18 20:27:33",
+            "adminResponse": ""
+        },
+        {
+            "id": 3,
+            "studentId": "ALU4642",
+            "studentName": "liz Hernandez",
+            "date": "2026-01-09",
+            "subject": "Matem\u00e1ticas",
+            "reason": "falte por urgencia familiar",
+            "level": "Universidad",
+            "status": "Pendiente",
+            "createdAt": "2026-01-09 23:19:36",
+            "adminResponse": ""
+        }
+    ],
+    "groups": [
+        {
+            "id": "GRP001",
+            "name": "1-A",
+            "level": "Kinder",
+            "grade": "1",
+            "section": "A",
+            "teacherId": "DOC001",
+            "teacherName": "Carlos Hern\u00e1ndez",
+            "studentIds": [
+                "ALU9405"
+            ],
+            "schedule": "Matutino",
+            "year": "2025"
+        },
+        {
+            "id": "GRP003",
+            "name": "1-A",
+            "level": "Primaria",
+            "grade": "1",
+            "section": "A",
+            "teacherId": "DOC003",
+            "teacherName": "Ana Garc\u00eda",
+            "studentIds": [],
+            "schedule": "Matutino",
+            "year": "2025"
+        },
+        {
+            "id": "GRP004",
+            "name": "3-B",
+            "level": "Secundaria",
+            "grade": "3",
+            "section": "B",
+            "teacherId": "DOC004",
+            "teacherName": "Roberto S\u00e1nchez",
+            "studentIds": [],
+            "schedule": "Vespertino",
+            "year": "2025"
+        },
+        {
+            "id": "GRP005",
+            "name": "5CV1",
+            "level": "Universidad",
+            "grade": "5",
+            "section": "CV1",
+            "teacherId": "DOC001",
+            "teacherName": "Carlos Hern\u00e1ndez",
+            "studentIds": [
+                "ALU4642"
+            ],
+            "schedule": "Matutino",
+            "year": "2025"
+        }
+    ],
+    "attendance": [
+        {
+            "date": "2025-12-18",
+            "groupId": "GRP001",
+            "studentId": "ALU9405",
+            "studentName": "ximena casta\u00f1eda martinez",
+            "status": "Ausente",
+            "notes": "",
+            "teacherId": "DOC-K01",
+            "createdAt": "2025-12-18 20:26:12"
+        }
+    ],
+    "enrollments": [
+        {
+            "id": "ENR6941ceb3ae094",
+            "studentId": "ALU4642",
+            "subjectId": "MAT001",
+            "subjectName": "Matem\u00e1ticas",
+            "credits": 6,
+            "status": "Baja",
+            "enrolledAt": "2025-12-16 22:27:15",
+            "semester": "2025-1",
+            "droppedAt": "2025-12-18 22:20:58",
+            "dropReason": ""
+        },
+        {
+            "id": "ENR6941ceb646b2a",
+            "studentId": "ALU4642",
+            "subjectId": "HIS001",
+            "subjectName": "Historia",
+            "credits": 4,
+            "status": "Baja",
+            "enrolledAt": "2025-12-16 22:27:18",
+            "semester": "2025-1",
+            "droppedAt": "2025-12-18 22:21:00",
+            "dropReason": ""
+        },
+        {
+            "id": "ENR6941ceb901825",
+            "studentId": "ALU4642",
+            "subjectId": "ING001",
+            "subjectName": "Ingl\u00e9s",
+            "credits": 4,
+            "status": "Baja",
+            "enrolledAt": "2025-12-16 22:27:21",
+            "semester": "2025-1",
+            "droppedAt": "2025-12-18 22:21:02",
+            "dropReason": ""
+        },
+        {
+            "id": "ENR6941cebbac7cc",
+            "studentId": "ALU4642",
+            "subjectId": "FIS001",
+            "subjectName": "F\u00edsica",
+            "credits": 6,
+            "status": "Baja",
+            "enrolledAt": "2025-12-16 22:27:23",
+            "semester": "2025-1",
+            "droppedAt": "2025-12-16 22:27:31",
+            "dropReason": ""
+        },
+        {
+            "id": "ENR694472d1136d0",
+            "studentId": "ALU4642",
+            "subjectId": "MAT-U01",
+            "subjectName": "C\u00e1lculo Diferencial",
+            "credits": 8,
+            "status": "Baja",
+            "enrolledAt": "2025-12-18 22:32:01",
+            "semester": "2025-1",
+            "droppedAt": "2025-12-18 22:32:12",
+            "dropReason": ""
+        },
+        {
+            "id": "ENR694473933f870",
+            "studentId": "ALU4642",
+            "subjectId": "MAT-U01",
+            "subjectName": "C\u00e1lculo Diferencial",
+            "credits": 8,
+            "status": "Inscrito",
+            "enrolledAt": "2025-12-18 22:35:15",
+            "semester": "2025-1"
+        },
+        {
+            "id": "ENR6950aac061322",
+            "studentId": "ALU9405",
+            "subjectId": "MAT-K01",
+            "subjectName": "Desarrollo Infantil",
+            "credits": 4,
+            "status": "Inscrito",
+            "enrolledAt": "2025-12-28 04:57:52",
+            "semester": "2025-1"
+        },
+        {
+            "id": "ENR6950aac89f160",
+            "studentId": "ALU9405",
+            "subjectId": "MAT-K02",
+            "subjectName": "Educaci\u00f3n Inicial",
+            "credits": 4,
+            "status": "Inscrito",
+            "enrolledAt": "2025-12-28 04:58:00",
+            "semester": "2025-1"
+        },
+        {
+            "id": "ENR695b59afa1225",
+            "studentId": "ALU4642",
+            "subjectId": "MAT-U02",
+            "subjectName": "Programaci\u00f3n",
+            "credits": 8,
+            "status": "Inscrito",
+            "enrolledAt": "2026-01-05 07:26:55",
+            "semester": "2026-1"
+        },
+        {
+            "id": "ENR695b59b186110",
+            "studentId": "ALU4642",
+            "subjectId": "MAT-U03",
+            "subjectName": "F\u00edsica Cl\u00e1sica",
+            "credits": 8,
+            "status": "Inscrito",
+            "enrolledAt": "2026-01-05 07:26:57",
+            "semester": "2026-1"
+        },
+        {
+            "id": "ENR695b59b3b23ca",
+            "studentId": "ALU4642",
+            "subjectId": "MAT-U04",
+            "subjectName": "Base de Datos",
+            "credits": 7,
+            "status": "Inscrito",
+            "enrolledAt": "2026-01-05 07:26:59",
+            "semester": "2026-1"
+        }
+    ],
+    "notifications": [
+        {
+            "id": "NOT001",
+            "userId": "all",
+            "title": "Bienvenido al Sistema",
+            "message": "Bienvenido a SchoolHub. Explore las funcionalidades disponibles.",
+            "type": "info",
+            "read": false,
+            "createdAt": "2025-12-01 08:00:00"
+        },
+        {
+            "id": "NOT002",
+            "userId": "all",
+            "title": "Per\u00edodo de Inscripci\u00f3n Abierto",
+            "message": "El per\u00edodo de inscripci\u00f3n para el semestre 2025-1 est\u00e1 abierto.",
+            "type": "success",
+            "read": false,
+            "createdAt": "2025-12-15 10:00:00"
+        }
+    ],
+    "subjects": [
+        {
+            "id": "MAT-K01",
+            "name": "Desarrollo Infantil",
+            "description": "Desarrollo cognitivo y emocional en la primera infancia",
+            "level": "Kinder",
+            "credits": 4,
+            "teacherId": "DOC-K01"
+        },
+        {
+            "id": "MAT-K02",
+            "name": "Educaci\u00f3n Inicial",
+            "description": "Fundamentos de educaci\u00f3n para ni\u00f1os de preescolar",
+            "level": "Kinder",
+            "credits": 4,
+            "teacherId": "DOC-K02"
+        },
+        {
+            "id": "MAT-K03",
+            "name": "Arte y Creatividad",
+            "description": "Expresi\u00f3n art\u00edstica y desarrollo creativo",
+            "level": "Kinder",
+            "credits": 3,
+            "teacherId": "DOC-K03"
+        },
+        {
+            "id": "MAT-K04",
+            "name": "Psicomotricidad",
+            "description": "Desarrollo motor y coordinaci\u00f3n corporal",
+            "level": "Kinder",
+            "credits": 3,
+            "teacherId": "DOC-K04"
+        },
+        {
+            "id": "MAT-P01",
+            "name": "Matem\u00e1ticas B\u00e1sicas",
+            "description": "Aritm\u00e9tica, geometr\u00eda y resoluci\u00f3n de problemas",
+            "level": "Primaria",
+            "credits": 5,
+            "teacherId": "DOC-P01"
+        },
+        {
+            "id": "MAT-P02",
+            "name": "Espa\u00f1ol y Lectura",
+            "description": "Comprensi\u00f3n lectora, gram\u00e1tica y redacci\u00f3n",
+            "level": "Primaria",
+            "credits": 5,
+            "teacherId": "DOC-P02"
+        },
+        {
+            "id": "MAT-P03",
+            "name": "Ciencias Naturales",
+            "description": "Biolog\u00eda, f\u00edsica y qu\u00edmica b\u00e1sicas",
+            "level": "Primaria",
+            "credits": 4,
+            "teacherId": "DOC-P03"
+        },
+        {
+            "id": "MAT-P04",
+            "name": "Educaci\u00f3n F\u00edsica",
+            "description": "Actividad f\u00edsica y deportes",
+            "level": "Primaria",
+            "credits": 3,
+            "teacherId": "DOC-P04"
+        },
+        {
+            "id": "MAT-S01",
+            "name": "Matem\u00e1ticas",
+            "description": "\u00c1lgebra, geometr\u00eda anal\u00edtica y trigonometr\u00eda",
+            "level": "Secundaria",
+            "credits": 6,
+            "teacherId": "DOC-S01"
+        },
+        {
+            "id": "MAT-S02",
+            "name": "Historia y Geograf\u00eda",
+            "description": "Historia universal, de M\u00e9xico y geograf\u00eda",
+            "level": "Secundaria",
+            "credits": 5,
+            "teacherId": "DOC-S02"
+        },
+        {
+            "id": "MAT-S03",
+            "name": "F\u00edsica y Qu\u00edmica",
+            "description": "F\u00edsica mec\u00e1nica y qu\u00edmica general",
+            "level": "Secundaria",
+            "credits": 6,
+            "teacherId": "DOC-S03"
+        },
+        {
+            "id": "MAT-S04",
+            "name": "Ingl\u00e9s",
+            "description": "Ingl\u00e9s intermedio: gram\u00e1tica, conversaci\u00f3n y escritura",
+            "level": "Secundaria",
+            "credits": 4,
+            "teacherId": "DOC-S04"
+        },
+        {
+            "id": "MAT-U01",
+            "name": "C\u00e1lculo Diferencial",
+            "description": "L\u00edmites, derivadas y aplicaciones",
+            "level": "Universidad",
+            "credits": 8,
+            "teacherId": "DOC-U01"
+        },
+        {
+            "id": "MAT-U02",
+            "name": "Programaci\u00f3n",
+            "description": "Fundamentos de programaci\u00f3n y algoritmos",
+            "level": "Universidad",
+            "credits": 8,
+            "teacherId": "DOC-U02"
+        },
+        {
+            "id": "MAT-U03",
+            "name": "F\u00edsica Cl\u00e1sica",
+            "description": "Mec\u00e1nica, termodin\u00e1mica y electromagnetismo",
+            "level": "Universidad",
+            "credits": 8,
+            "teacherId": "DOC-U03"
+        },
+        {
+            "id": "MAT-U04",
+            "name": "Base de Datos",
+            "description": "Dise\u00f1o, modelado y administraci\u00f3n de bases de datos",
+            "level": "Universidad",
+            "credits": 7,
+            "teacherId": "DOC-U04"
+        },
+        {
+            "id": "SUB005",
+            "name": "desarrollo personal",
+            "levels": [],
+            "credits": 4,
+            "description": ""
+        },
+        {
+            "id": "SUB006",
+            "name": "fisica",
+            "levels": [],
+            "credits": 4,
+            "description": ""
+        },
+        {
+            "id": "SUB007",
+            "name": "discretas",
+            "level": "Kinder",
+            "levels": [
+                "Kinder"
+            ],
+            "credits": 4,
+            "description": "",
+            "teacherId": "DOC-K01"
+        },
+        {
+            "id": "SUB008",
+            "name": "dibujo",
+            "level": "Kinder",
+            "levels": [
+                "Kinder"
+            ],
+            "credits": 4,
+            "description": "",
+            "teacherId": "DOC-K01"
+        },
+        {
+            "id": "SUB009",
+            "name": "artes",
+            "level": "Kinder",
+            "levels": [
+                "Kinder"
+            ],
+            "credits": 4,
+            "description": "",
+            "teacherId": "DOC-K01"
+        },
+        {
+            "id": "SUB010",
+            "name": "ads",
+            "level": "Universidad",
+            "levels": [
+                "Universidad"
+            ],
+            "credits": 4,
+            "description": "",
+            "teacherId": ""
+        }
+    ],
+    "incidencias": [
+        {
+            "id": "INC695b49e3d7a9f",
+            "studentId": "ALU9405",
+            "studentName": "ximena casta\u00f1eda martinez",
+            "teacherId": "DOC-K02",
+            "teacherName": "Patricia Hern\u00e1ndez Ruiz",
+            "type": "conducta",
+            "description": "le pego a un compa\u00f1ero",
+            "date": "2026-01-05",
+            "time": "23:19",
+            "severity": "moderada",
+            "level": "Kinder",
+            "groupId": "GRP001",
+            "status": "sancionada",
+            "sanction": {
+                "type": "suspension",
+                "description": "Sanci\u00f3n de prueba 1767590518561",
+                "duration": null,
+                "appliedAt": "2026-01-05 06:21:58",
+                "appliedBy": "ADM001"
+            },
+            "adminResponse": "Incidencia revisada por administrador",
+            "createdAt": "2026-01-05 06:19:31",
+            "updatedAt": "2026-01-05 06:21:58"
+        },
+        {
+            "id": "INC695b4acad350c",
+            "studentId": "ALU1234",
+            "studentName": "Alumno de Prueba",
+            "teacherId": "DOC123",
+            "teacherName": "Docente de Prueba",
+            "type": "conducta",
+            "description": "Incidencia de prueba para revisi\u00f3n",
+            "date": "2026-01-05",
+            "time": "12:00",
+            "severity": "moderada",
+            "level": "Kinder",
+            "groupId": "G1",
+            "status": "sancionada",
+            "sanction": {
+                "type": "suspension",
+                "description": "Sanci\u00f3n para alumno de prueba",
+                "duration": null,
+                "appliedAt": "2026-01-05 06:23:38",
+                "appliedBy": "ADM001"
+            },
+            "adminResponse": "",
+            "createdAt": "2026-01-05 06:23:22",
+            "updatedAt": "2026-01-05 06:23:38"
+        },
+        {
+            "id": "INC695b4b0791649",
+            "studentId": "ALU1234",
+            "studentName": "Prueba 3",
+            "teacherId": "DOC123",
+            "teacherName": "Docente",
+            "type": "conducta",
+            "description": "desc",
+            "date": "2026-01-05",
+            "time": "12:00",
+            "severity": "leve",
+            "level": "Kinder",
+            "groupId": "G1",
+            "status": "sancionada",
+            "sanction": {
+                "type": "suspension",
+                "description": "Test",
+                "duration": null,
+                "appliedAt": "2026-01-05 06:24:23",
+                "appliedBy": "admin"
+            },
+            "adminResponse": "",
+            "createdAt": "2026-01-05 06:24:23",
+            "updatedAt": "2026-01-05 06:24:23"
+        },
+        {
+            "id": "INC695b4b0fa752d",
+            "studentId": "ALU1234",
+            "studentName": "User Test",
+            "teacherId": "DOC123",
+            "teacherName": "Docente",
+            "type": "conducta",
+            "description": "desc",
+            "date": "2026-01-05",
+            "time": "12:00",
+            "severity": "leve",
+            "level": "Kinder",
+            "groupId": "G1",
+            "status": "sancionada",
+            "sanction": {
+                "type": "suspension",
+                "description": "Sancion confirmada",
+                "duration": null,
+                "appliedAt": "2026-01-05 06:24:32",
+                "appliedBy": "ADM001"
+            },
+            "adminResponse": "",
+            "createdAt": "2026-01-05 06:24:31",
+            "updatedAt": "2026-01-05 06:24:32"
+        }
+    ],
+    "teacherPreferences": [
+        {
+            "id": "PREF6961855b3b191",
+            "teacherId": "DOC-K01",
+            "preferredSubjects": [],
+            "preferredSchedule": "matutino",
+            "maxSubjects": 6,
+            "notes": "",
+            "createdAt": "2026-01-09 23:46:51"
+        }
+    ],
+    "workshops": [
+        {
+            "id": "WKS69618337787ff",
+            "name": "taller de pintura",
+            "description": "",
+            "level": "Secundaria",
+            "type": "taller",
+            "credits": 4,
+            "capacity": 30,
+            "enrolled": 0,
+            "teacherId": null,
+            "schedule": "",
+            "status": "inactive",
+            "createdAt": "2026-01-09 23:37:43",
+            "updatedAt": "2026-01-09 23:37:49"
+        },
+        {
+            "id": "WKS6961834d5e6ff",
+            "name": "taller de robotica",
+            "description": "",
+            "level": "Secundaria",
+            "type": "taller",
+            "credits": 4,
+            "capacity": 30,
+            "enrolled": 0,
+            "teacherId": null,
+            "schedule": "",
+            "status": "active",
+            "createdAt": "2026-01-09 23:38:05",
+            "updatedAt": "2026-01-09 23:38:12"
+        }
+    ],
+    "calendar": {
+        "schoolYear": "2025-2026",
+        "holidays": [
+            {
+                "date": "2026-01-01",
+                "name": "A\u00f1o Nuevo",
+                "type": "sep",
+                "id": "HOL696183bd052de",
+                "createdAt": "2026-01-09 23:39:57"
+            },
+            {
+                "date": "2026-02-03",
+                "name": "D\u00eda de la Constituci\u00f3n",
+                "type": "sep",
+                "id": "HOL696183bd05305",
+                "createdAt": "2026-01-09 23:39:57"
+            },
+            {
+                "date": "2026-03-17",
+                "name": "Natalicio de Benito Ju\u00e1rez",
+                "type": "sep",
+                "id": "HOL696183bd05309",
+                "createdAt": "2026-01-09 23:39:57"
+            },
+            {
+                "date": "2026-05-01",
+                "name": "D\u00eda del Trabajo",
+                "type": "sep",
+                "id": "HOL696183bd0530c",
+                "createdAt": "2026-01-09 23:39:57"
+            },
+            {
+                "date": "2026-05-05",
+                "name": "Batalla de Puebla",
+                "type": "sep",
+                "id": "HOL696183bd0530e",
+                "createdAt": "2026-01-09 23:39:57"
+            },
+            {
+                "date": "2026-05-15",
+                "name": "D\u00eda del Maestro",
+                "type": "sep",
+                "id": "HOL696183bd05310",
+                "createdAt": "2026-01-09 23:39:57"
+            },
+            {
+                "date": "2026-09-16",
+                "name": "D\u00eda de la Independencia",
+                "type": "sep",
+                "id": "HOL696183bd05313",
+                "createdAt": "2026-01-09 23:39:57"
+            },
+            {
+                "date": "2026-11-02",
+                "name": "D\u00eda de Muertos",
+                "type": "sep",
+                "id": "HOL696183bd05315",
+                "createdAt": "2026-01-09 23:39:57"
+            },
+            {
+                "date": "2026-11-18",
+                "name": "Revoluci\u00f3n Mexicana",
+                "type": "sep",
+                "id": "HOL696183bd05317",
+                "createdAt": "2026-01-09 23:39:57"
+            },
+            {
+                "date": "2026-12-25",
+                "name": "Navidad",
+                "type": "sep",
+                "id": "HOL696183bd0531a",
+                "createdAt": "2026-01-09 23:39:57"
+            }
+        ],
+        "periods": [],
+        "events": []
+    }
+}
